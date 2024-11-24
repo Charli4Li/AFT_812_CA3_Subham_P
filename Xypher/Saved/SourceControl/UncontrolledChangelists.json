@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHub/AFT_812_CA3_Subham_P/Xypher/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/GitHub/AFT_812_CA3_Subham_P/Xypher/Content/Blueprints/BP_camera.uasset",
+				"D:/GitHub/AFT_812_CA3_Subham_P/Xypher/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/YW/AQ4FYT7M89AR6B0R1HI0A9.uasset",
 				"C:/APHN16/Tmp Sys/UE/AFT812_CA3_Subham_P/Xypher/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
